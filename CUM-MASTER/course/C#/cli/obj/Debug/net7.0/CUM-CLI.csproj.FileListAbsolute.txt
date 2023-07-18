@@ -1,0 +1,15 @@
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\bin\Debug\net7.0\CUM-CLI.exe
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\bin\Debug\net7.0\CUM-CLI.deps.json
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\bin\Debug\net7.0\CUM-CLI.runtimeconfig.json
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\bin\Debug\net7.0\CUM-CLI.dll
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\bin\Debug\net7.0\CUM-CLI.pdb
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.csproj.AssemblyReference.cache
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.AssemblyInfoInputs.cache
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.AssemblyInfo.cs
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.csproj.CoreCompileInputs.cache
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.dll
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\refint\CUM-CLI.dll
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.pdb
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\CUM-CLI.genruntimeconfig.cache
+C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\obj\Debug\net7.0\ref\CUM-CLI.dll
