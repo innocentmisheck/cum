@@ -29,11 +29,14 @@ namespace Gammis
 
             while (true)
             {
+                Console.WriteLine("WELCOME TO CUM-CLI GENERATER");
+
+                Console.ForegroundColor = ConsoleColor.Blue;
                 string refCode = refCodeGenerator.GenerateRefCode(refCodeLength);
 
                 // Change the console text color to green for the label text
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.Write("Generated ref_code: ");
+                Console.Write("Your session generated ref_code: ");
 
                 // Change the console text color to red for the refCode itself
                 Console.ForegroundColor = ConsoleColor.Red;
