@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CUM_CLI
-build_property.ProjectDir = C:\Projects\Organizations\enotech\CUM\CUM-MASTER\CUM-CLI\
+build_property.ProjectDir = C:\Projects\Organizations\enotech\CUM\CUM-MASTER\course\C#\cli\
